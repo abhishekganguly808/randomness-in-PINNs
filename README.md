@@ -30,9 +30,9 @@ cd randomness-in-PINNs
 ```
 
 ## 📂 Structure
-- `saved_models/` → Saved and stored trained PINN models (inviscid Burgers / Riemann IC)  
-- `riemann_weights/` → Saved weights & biases (inviscid Burgers / Riemann IC)  
-- `sine_weights/` → Saved weights & biases (viscous Burgers / sine IC)  
+- `checkpoints/` → Saved and stored trained PINN models (inviscid Burgers / Riemann IC)  
+- `weights_riemann/` → Saved weights & biases (inviscid Burgers / Riemann IC)  
+- `weights_sine/` → Saved weights & biases (viscous Burgers / sine IC)  
 - `pinn_analysis.ipynb` → Statistical analysis of trained PINN weights  
 - `FDM.ipynb` → Finite-difference experiments (Fig. 6: stability analysis)
 
