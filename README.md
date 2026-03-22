@@ -68,6 +68,20 @@ fdm.ipynb
   doi     = {10.1140/epjp/s13360-026-07549-0}
 }
 ```
+## arXiv version:
+```bash
+@misc{tucny2026randomnesssignalpropagationphysicsinformed,
+      title={Randomness and signal propagation in physics-informed neural networks (PINNs): A neural PDE perspective}, 
+      author={Jean-Michel Tucny and Abhisek Ganguly and Santosh Ansumali and Sauro Succi},
+      year={2026},
+      eprint={2509.18131},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.18131}, 
+}
+```
+
+
 ## 📬 Contact
 ```bash
 abhishekganguly808@gmail.com
