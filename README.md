@@ -14,7 +14,6 @@ This project investigates:
 
 - Statistical properties of trained PINN weights  
 - Connections to **Random Matrix Theory (RMT)**  
-- Interpretation of deep networks as **discretized neural PDEs**  
 - Role of **numerical stability** in signal propagation  
 
 ---
